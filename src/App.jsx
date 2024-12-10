@@ -1,5 +1,7 @@
+import TelephoneFormatter from "./components/TelephoneFormatter";
+
 function App() {
-  return <></>;
+  return <TelephoneFormatter />;
 }
 
 export default App;
